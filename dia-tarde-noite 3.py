@@ -13,7 +13,7 @@ def verifica_hora(val):
     elif val >= 18 and val <= 23:
         resultado = print ('BOA NOITE!')
     else:
-        resultado = print('Hora inválida. tomar no cu!')
+        resultado = print('Hora inválida!')
     
     return resultado
 #  -------------- fim da funcao de hora
